@@ -1,0 +1,91 @@
+.lblcontact {
+    -fx-font-size: 17px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Tw Cen MT";
+    -fx-pref-width: 200px;
+    -fx-text-fill: "#ffff";
+}
+
+.lblmessage {
+    -fx-font-size: 14px;
+    -fx-font-family: "Tw Cen MT";
+    -fx-pref-width: 200px;
+    -fx-text-fill: "#ffff";
+}
+
+.lbltime {
+    -fx-font-size: 13px;
+    -fx-font-family: "Tw Cen MT";
+    -fx-pref-width: 200px;
+    -fx-alignment: center_right;
+    -fx-text-fill: "#ffff";
+}
+
+.bandeja-contacto {
+    -fx-padding: 8px 10px 8px 10px;
+    -fx-pref-width: 244px;
+    -fx-pref-height: 79px;
+    -fx-alignment: center_left;
+}
+
+.bandeja-contacto:hover {
+    -fx-background-color: "#1C658C";
+    -fx-cursor: hand;
+}
+
+
+.vb-contacto {
+    -fx-alignment: center_left;
+    -fx-min-width: 155px;
+    -fx-max-height: 63px;
+    -fx-padding: 5px 0;
+}
+
+.conversacion {
+    -fx-background-color: "#759eff";
+    -fx-background-radius: 30px;
+    -fx-padding: 10px 15px 10px 15px;
+    -fx-alignment: center_left;
+}
+
+.hb-mensaje {
+    -fx-pref-width: 625px;
+    -fx-padding: 10px 0 10px 10px;
+    -fx-alignment: center_left;
+}
+
+.lbllogout:hover {
+    -fx-font-size: 15.5px;
+    -fx-text-fill: "#FF5722";
+    -fx-cursor: hand;
+    -fx-font-family: "Tw Cen MT";
+}
+
+.lbl-conversacion {
+    -fx-max-width: 350px;
+    -fx-font-size: 16px;
+    -fx-font-family: "Tw Cen MT";
+    -fx-wrap-text: true;
+    -fx-alignment: center_left;
+}
+
+.lbl-fecha-hora {
+    -fx-max-width: 350px;
+    -fx-font-size: 10px;
+    -fx-font-family: "Tw Cen MT";
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: "#373739";
+    -fx-cursor: hand;
+}
+
+.scroll-bar:vertical {
+    -fx-background-color: "transparent";
+    -fx-padding: 0;
+    -fx-min-width: 0px;
+}
+
+.scroll-bar:vertical .track {
+    -fx-min-width: 0px;
+}

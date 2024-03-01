@@ -1,0 +1,16 @@
+.bandeja-contacto {
+    -fx-padding: 8px 10px 8px 10px;
+}
+
+.bandeja-contacto:hover {
+    -fx-background-color: "#1C658C";
+    -fx-cursor: hand;
+}
+
+.lblcontact {
+    -fx-font-size: 17px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Tw Cen MT";
+    -fx-pref-width: 200px;
+    -fx-text-fill: "#ffff";
+}
